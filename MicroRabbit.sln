@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroRabbit.Domain.Core", "MicroRabbit.Domain.Core\MicroRabbit.Domain.Core.csproj", "{23A26835-BAAE-46D4-B440-38F057B373B3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{86206EFC-A17A-48FA-B301-D1C2EDDBE838}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23A26835-BAAE-46D4-B440-38F057B373B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23A26835-BAAE-46D4-B440-38F057B373B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23A26835-BAAE-46D4-B440-38F057B373B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23A26835-BAAE-46D4-B440-38F057B373B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{23A26835-BAAE-46D4-B440-38F057B373B3} = {86206EFC-A17A-48FA-B301-D1C2EDDBE838}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40EA9727-FF03-4BE7-8DB6-1D210BF617E5}
+	EndGlobalSection
+EndGlobal
